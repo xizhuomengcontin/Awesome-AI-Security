@@ -707,6 +707,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
 - [OECD.AI - AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) — Open database of real-world AI agent security incidents; every record is sourced and flags confirmed harm, AI involvement and kind (incident, vulnerability, research).
 
 ### Publicly Disclosed Vulnerabilities
 Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
